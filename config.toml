@@ -1,8 +1,8 @@
 baseurl = "https://kangwoosukeq.github.io"
 title = "Home"
 theme = "hugo-coder"
-languagecode = "ko"
-defaultcontentlanguage = "ko"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
 [params]
 author = "Wooseok Kang"
